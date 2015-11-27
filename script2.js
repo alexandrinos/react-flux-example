@@ -1,0 +1,1 @@
+var message=require('./script1.js');document.write(` This is an ES6 in script2.js; ${message} `)  //observe the special characters
