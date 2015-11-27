@@ -1,5 +1,5 @@
  import React from 'react';  //import the package React from node_modules installed with Babel
- import ReactDOM from 'react-dom';
+ import ReactDOM from 'react-dom';  //old style import React from 'react'
 
 
 //to create a React class object, we extend the React.Component, and here we have a constructor with a state, and a render with a return
@@ -15,8 +15,8 @@ class App extends React.Component{
 		super();
 		this.state={
 			messages:[
-				'hi there how are you',
-				'I am fine, Ben.....And you? Thats cooool..or not ___'
+				'Welcome to React',
+				'Please to meet you'
 
 			]
 		}

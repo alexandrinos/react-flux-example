@@ -1,4 +1,4 @@
-//this file is for the server not for production
+//this file is for the debug server not for production
 var webpack=require('webpack');
 var WebPackDevServer=require('webpack-dev-server');
 var config=require('./webpack.config.js');
