@@ -1,1 +1,1 @@
-module.exports='hi there from common js';
+module.exports='hi there from common js.Nice';
